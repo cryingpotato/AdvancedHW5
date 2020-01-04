@@ -1,0 +1,2 @@
+include ':app', ':AdvancedHW5'
+rootProject.name='My Application'
